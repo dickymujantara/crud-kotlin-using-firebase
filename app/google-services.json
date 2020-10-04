@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118399587398",
+    "firebase_url": "https://coffee-mark.firebaseio.com",
+    "project_id": "coffee-mark",
+    "storage_bucket": "coffee-mark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118399587398:android:2626077be2eb53ea3be647",
+        "android_client_info": {
+          "package_name": "org.d3ifcool.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118399587398-go2jld7bfogub061gb91vslt4feth649.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8NrkWA4cLC3PP0P7YpKjMHb1R6hzS5hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118399587398-go2jld7bfogub061gb91vslt4feth649.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
